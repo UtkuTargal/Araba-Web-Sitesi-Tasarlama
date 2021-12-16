@@ -1,0 +1,46 @@
+div img{
+    position: relative;
+    left: 520px;
+}
+
+h1{
+    color: #05141f;
+    font-family: Arial;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+    padding-right: 850px;
+}
+
+h2{
+    color: #05141f;
+    font-family: Arial;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3{
+    color: #05141f;
+    font-family: Arial;
+    font-size: 40px;
+    text-align: center;
+}
+
+p{
+    color: #05141f;
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.foto{
+   position: relative;
+   left: -150px;
+}
+
+.home{
+    position: relative;
+    right: 430px;
+}

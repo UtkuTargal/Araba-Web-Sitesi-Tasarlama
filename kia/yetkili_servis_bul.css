@@ -1,0 +1,90 @@
+
+table{
+    border: 1;
+    font-family: Arial;
+    border-collapse: collapse;
+    width: 80%;
+    text-align: center;
+    margin-left: 170px;
+}
+
+h1{
+    color: #05141F;
+    font-family: Arial;
+    font-size: 35px;
+    padding-left: 180px;
+}
+
+h2{
+    color: red;
+    font-family: Arial;
+    font-size: 25px;
+    padding-right: 450px;
+    position: relative;
+    top: 55px;
+}
+
+h3{
+    color: #05141F;
+    font-family: Arial;
+    font-size: 20px;
+    padding-left: 260px;
+    position: relative;
+    top: 10px;
+}
+
+h4{
+    color: #05141F;
+    font-family: Arial;
+    font-size: 20px;
+    padding-right: 320px;
+    position: relative;
+    top: 35px;
+}
+
+div{
+    padding-left: 310px;
+    position: relative;
+    top: -14px;
+}
+
+.yetkili_satıcı{
+    padding-right: 720px;
+    position: relative;
+    top: 55px;
+}
+
+.yetkili_servis{
+    padding-right: 320px;
+    position: relative;
+    top: -75px;
+}
+
+td{
+    color: white;
+    background-color: #05141F;
+    border: 1px solid white;
+    text-align: center;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+tr{
+    color: black;
+    background-color: #05141F;
+    text-align: center;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+th{
+    background-color: white;
+}
+
+.home{
+    position: relative;
+    right: 250px;
+}
+

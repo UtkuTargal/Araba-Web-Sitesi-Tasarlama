@@ -1,0 +1,65 @@
+video{
+    width: 1500px;
+}
+
+
+table{
+    background-color: white;
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 1500px;
+    height: 150px;
+}
+
+td{
+    color: #05141F;
+    border: 1px solid #05141F;
+    text-align: center;
+    font-family: Arial;
+    font-size: 22px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    position: relative;
+    top: 36px;
+}
+
+tr{
+    color: black;
+    border: 1px solid black;
+    text-align: left;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.para{
+    position: relative;
+    left: 420px;
+    top: -145px;
+}
+
+.garanti{
+    position: relative;
+    left: 580px;
+    top: -55px;
+}
+
+h1{
+    color: #05141F;
+    font-family: Arial;
+    font-size: 40px;
+    position: relative;
+    top: -1490px;
+    left: 65px;
+    text-decoration: underline;
+}
+
+h2{
+    color: #05141F;
+    font-family: Arial;
+    font-size: 40px;
+    position: relative;
+    top: -890px;
+    left: 65px;
+    text-decoration: underline;
+}

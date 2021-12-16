@@ -1,0 +1,27 @@
+body{
+    background-image: url("images/Sportage\ Kırmızı.jpg") ;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-blend-mode: darken;
+    background-size: cover ;
+ }
+body a{
+    color:white;
+    background:#05141F ;
+    font-family: Arial;
+    font-size: 180%;
+    display: none;
+    display: inline-block;
+    padding-left: 55px;
+    padding-right: 55px;
+    
+}
+
+h1{
+    color: red;
+    font-family: Arial;
+    font-size: 26px;
+    position: relative;
+    left: 945px;
+}

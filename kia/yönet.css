@@ -1,0 +1,61 @@
+ body{
+      background-image: url("images/ekip1.jpg");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-attachment: fixed;
+      background-blend-mode: darken;
+      background-size: cover;
+  }
+
+  video{
+      width: 150px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: left;
+}
+
+li a {   
+    color:#05141F;
+    font-family: Arial;
+    font-size: 25px;
+    display: block;
+    text-align: center;
+    padding-left: 35px;
+    padding-right: 35px;
+    position: relative;
+    margin: 12px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active){
+    background-color: slategrey; 
+}
+
+
+ul li ul{
+    color: #05141F;
+    font-size: 10px;
+    font-family: Arial;
+    text-align: center;
+    background-color:white;
+    display: none;
+    position: absolute;
+    width: 290px;
+}
+
+ul li:hover ul{
+    display: block;
+}
+
+li ul li{
+    display: block;
+}

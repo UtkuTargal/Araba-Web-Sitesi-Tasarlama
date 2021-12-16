@@ -1,0 +1,29 @@
+body{
+    background-image: url("images/xceed\ son5.jpeg") ;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-blend-mode: darken;
+    background-size: cover ;
+ }
+body a{
+    color:white;
+    background:#05141F ;
+    font-family: Arial;
+    font-size: 180%;
+    display: none;
+    display: inline-block;
+    padding-left: 57px;
+    padding-right: 57px;
+    
+}
+
+
+h1{
+    color: #b8860b;
+    font-family: Arial;
+    font-size: 49px;
+    position: relative;
+    left: 70px;
+    top: 370px;
+}

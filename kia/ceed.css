@@ -1,0 +1,29 @@
+body{
+    background-image: url("images/ceed\ son\ 3.jpg") ;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-blend-mode: darken;
+    background-size: cover ;
+ }
+body a{
+    color:white;
+    background:#05141F ;
+    font-family: Arial;
+    font-size: 180%;
+    display: none;
+    display: inline-block;
+    padding-left: 59px;
+    padding-right: 59px;
+    
+}
+
+
+h1{
+    color: white;
+    font-family: Arial;
+    font-size: 47px;
+    position: relative;
+    left: 20px;
+    top: 25px;
+}

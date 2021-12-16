@@ -1,0 +1,144 @@
+div img{
+    width: 100%;
+}
+
+div h2{
+    color: black;
+    font-family: Arial;
+    font-size: 24px;
+    text-align: center;
+}
+
+div h3{
+    color: black;
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+}
+
+div h4{
+    color: #808080;
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.resim{
+    width: 25%;
+    padding-right: 950px;
+    margin: auto;
+}
+
+.foto{
+    width: 27%;
+    padding-right: 950px;
+    position: relative;
+    top: -25px;
+    margin: auto;
+}
+
+.ses{
+    width: 26%;
+    padding-right: 950px;
+    position: relative;
+    top: -25px;
+    margin: auto;
+}
+
+.kar{
+    width: 12%;
+    padding-right: 950px;
+    margin: auto;
+}
+
+.dağ{
+    width: 15%;
+    padding-right: 950px;
+    margin: auto;
+}
+
+p{
+    color: #05141F;
+    font-size: 19px;
+    font-family: Arial;
+    padding-left: 500px;
+    position: relative;
+    top: -200px;
+}
+
+h5{
+    color: red;
+    font-size: 23px;
+    font-family: Arial;
+    padding-left: 500px;
+    position: relative;
+    top: -220px;  
+}
+
+h6{
+    color: #05141F;
+    font-size: 19px;
+    font-family: Arial;
+    padding-left: 500px;
+    position: relative;
+    top: -240px;  
+}
+
+.metin{
+    color: red;
+    font-size: 25px;
+    font-family: Arial;
+    padding-left: 50px;
+    padding-right: 50px;
+    position: relative;
+    top: -70px;
+    text-align: center;
+}
+
+h8{
+    color: black;
+    font-size: 15px;
+    font-family: Arial;
+    padding-left: 50px;
+    padding-right: 50px;
+    position: relative;
+    top: -20px;
+}
+
+table{
+    border: 2;
+    border-color: #05141F;
+    font-family: Arial;
+    border-collapse: collapse;
+    width: 80%;
+    text-align: center;
+    margin-left: 170px;
+}
+
+
+td{
+    color: #05141F;
+    border: 1px solid #05141F;
+    text-align: center;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+tr{
+    color: black;
+    border: 1px solid #05141F;
+    text-align: center;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+th{
+    color: white;
+    background-color: #05141F;
+}
+
+

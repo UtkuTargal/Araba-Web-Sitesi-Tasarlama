@@ -1,0 +1,48 @@
+
+h1{
+    color: #05141F;
+    font-family: Arial;
+    text-decoration: underline;
+    font-size: 32px;
+    position: relative;
+    left: 30px;
+}
+
+table{
+    border: 1;
+    border-color: #05141F;
+    font-family: Arial;
+    border-collapse: collapse;
+    width: 80%;
+    text-align: center;
+    margin-left: 170px;
+    position: relative;
+    top: 50px;
+}
+
+
+td{
+    color: #05141F;
+    font-size: 20px;
+    font-family: Arial;
+    border: 3px solid #05141F;
+    text-align: center;
+}
+th{
+    color: white;
+    background-color: #05141F;
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;   
+}
+
+p{
+    color: black;
+    font-family: Arial;
+    text-align: center;
+}
+
+.home{
+    position: relative;
+    left: 30px;
+}

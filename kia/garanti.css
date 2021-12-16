@@ -1,0 +1,29 @@
+
+h1{
+    color: #05141F;
+    font-family: Arial;
+    text-decoration: underline;
+    font-size: 32px;
+    position: relative;
+    left: 30px;
+}
+
+h2{
+    color: red;
+    font-size: 27px;
+    font-family: Arial;
+    text-align: center;
+}
+
+p{
+    color: black;
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+}
+
+.home{
+    position: relative;
+    left: 30px;
+}
+

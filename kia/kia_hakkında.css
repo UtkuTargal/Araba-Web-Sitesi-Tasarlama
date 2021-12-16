@@ -1,0 +1,34 @@
+h1{
+    color: brown;
+    font-size: 49px;
+    font-family: Arial;
+    position: relative;
+    left: 850px;
+    top: -250px;
+}
+
+h2{
+    color: brown;
+    font-size: 32px;
+    font-family: Arial;
+    position: relative;
+    left: 820px;
+    top: -290px;
+    padding-right: 880px;
+}
+
+h3{
+    color: brown;
+    font-size: 24px;
+    font-family: Arial;
+    position: relative;
+    left: 820px;
+    top: -490px;
+    padding-right: 900px;
+
+}
+
+.home{
+    position: relative;
+    left: 30px;
+}

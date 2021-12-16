@@ -1,0 +1,108 @@
+div img{
+    width: 35%;
+    padding-left: 180px;
+    padding-top: 30px;
+}
+
+h1{
+    color: #05141F;
+    font-family: Arial;
+    text-decoration: underline;
+    font-size: 32px;
+    padding-left: 180px;
+}
+
+h2{
+    color: #05141F;
+    font-size: 30px;
+    font-family: Arial;
+    padding-left: 750px;
+    position: relative;
+    top: -2230px;
+}
+
+h3{
+    color: 	#696969;
+    font-size: 19px;
+    font-family: Arial;
+    padding-left: 750px;
+    position: relative;
+    top: -2190px; 
+}
+
+h4{
+    color: red;
+    font-size: 18px;
+    position: relative;
+    left: 290px;
+    top: -70px;
+}
+
+h5{
+    color: red;
+    font-size: 18px;
+    position: relative;
+    left: 290px;
+    top: -95px;
+}
+
+
+.sosyal_medya{
+    width: 15%;
+    padding-left: 580px;
+    position: relative;
+    top: -2170px;
+}
+
+.medya{
+    width: 120%;
+    position: relative;
+    top: -65px;
+}
+
+div h6{
+    color: #05141F;
+    font-family: Arial;
+    font-size: 28px;
+    text-align: center;
+    padding-left: 60px;
+}
+
+p{
+    color: #696969;
+    font-size: 18px;
+    padding-left: 110px;
+    text-align: center;
+}
+
+table{
+    border: 2;
+    border-color: #05141F;
+    font-family: Arial;
+    border-collapse: collapse;
+    width: 80%;
+    text-align: center;
+    margin-left: 170px;
+    position: relative;
+    top: 50px;
+}
+
+
+td{
+    color: #05141F;
+    font-family: Arial;
+    border: 2px solid #05141F;
+    text-align: center;
+}
+th{
+    color: white;
+    background-color: #05141F;
+    font-family: Arial;
+    text-align: left;
+    
+}
+
+
+
+
+
